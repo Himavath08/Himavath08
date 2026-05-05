@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-<img align="right" height="225" width="400"  src="https://github.com/user-attachments/assets/40cb9355-9f66-4409-874a-f8debce28f27" />
-</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himavath/" target="_blank">
@@ -35,7 +33,9 @@
   </a>
 </p>
 
-###
+<div align="center">
+<img align="right" height="225" width="400"  src="https://github.com/user-attachments/assets/40cb9355-9f66-4409-874a-f8debce28f27" />
+</div>
 
 <br clear="both">
 
@@ -93,11 +93,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="50"/>
 </p>
 
-###
 
-
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/317zi4secn4rue3e5g35dz3cx5oi?si=i7HJurINQvS8SIWxjZ6DjA" target="_blank">
@@ -108,27 +104,6 @@
 <br>
 <br>
 
-### 🚀 Featured Projects
-
-- **🧠 Febrile Seizure Risk Prediction** _(ML · Python · Scikit-Learn)_  
-  End-to-end ML pipeline predicting neonatal seizure risk from clinical vital signs, optimized for lightweight CPU/edge deployment.
-
-- **🔒 Lumina – Student Trust Core** _(FastAPI · JWT · Differential Privacy · Browser Extension)_  
-  Privacy-preserving digital trust infrastructure for universities with phishing detection, cryptographic identity tokens, and anonymized analytics.
-
-- **📈 Multi-Agent AI Trading System** _(Python · FastAPI · LLM APIs)_  
-  Hedge Fund Crew architecture with specialized Quant, Sentiment, and Risk agents generating structured Investment Memos.
-
-- **🏛️ Unified Real-Time Governance Chatbot** _(Node.js · WhatsApp API · PostgreSQL · GPS)_  
-  State-scale grievance platform routing complaints across government departments in real time with SLA-based escalation.
-
-- **🪞 Privacy-First Autonomous Smart Mirror** _(NVIDIA Jetson Orin Nano · TensorRT-LLM · Llama-3-8B)_ _(Ongoing)_  
-  Fully offline edge AI system with quantized LLM inference, sub-500ms latency, and zero cloud dependency.
-
-- **💰 Smart Financial Analytics Platform** _(React.js · Node.js · Scikit-Learn · Plaid API · AWS)_  
-  Secure full-stack app with open banking integration, time-series forecasting, and interactive financial dashboards.
-
-###
 
 <br />
 
