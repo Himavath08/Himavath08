@@ -7,10 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer" alt="Typing SVG" />
 </div>
 
+<br clear="both">
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/himavath/" target="_blank">
+<div align="center">
+   <a href="https://www.linkedin.com/in/himavath/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/>
   </a>
 
@@ -31,12 +31,15 @@
   <a href="mailto:himavathm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" alt="gmail logo"  />
   </a>
-</p>
-
-<div align="center">
-<img align="right" height="225" width="400"  src="https://github.com/user-attachments/assets/40cb9355-9f66-4409-874a-f8debce28f27" />
 </div>
 
+<br clear="both">
+
+<div align="right">
+<img align="right" height="900" width="1600"  src="https://github.com/user-attachments/assets/40cb9355-9f66-4409-874a-f8debce28f27" />
+</div>
+
+<br clear="both">
 <br clear="both">
 
 <p align="center">
@@ -101,32 +104,3 @@
   </a>
 </div>
 
-<br>
-<br>
-
-
-<br />
-
-### 🏆 Achievements
-
-- 🥉 Secured **Third Place** at Tensorcraft
-- 🎯 Selected for the **Final Round** of LT Techgium 2025
-- 🎯 Selected for the **Final Round** of SuperHack 2025
-- 📚 Currently pursuing **Harkirat Singh's DevOps Course**
-
-###
-
-<img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=FFFFFF&fontAlign=36&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
-
-<div align="center">
-  <img
-    height="200"
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3"
-  />
-</div>
-
-###
-
-> _Open source contributions coming soon — stay tuned!_ 🚧
-
-###
